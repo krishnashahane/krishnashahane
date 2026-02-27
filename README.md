@@ -44,7 +44,9 @@ A programmer!
 
 
 Connect
+
+
 [![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
-[![X](https://img.shields.io/badge/@krishnashahane__000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
+[![X](https://img.shields.io/badge/@krishnashahane_-000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
 [![LinkedIn](https://img.shields.io/badge/Krishna_Shahane-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-shahane-721522273/)
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
