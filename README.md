@@ -28,22 +28,10 @@ A programmer!
 ## 📌 Current Focus
 - Building AI apps
 - Social media platform
-- AGI research
+- AI research
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Connect
+Connect!
 
 
 [![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
