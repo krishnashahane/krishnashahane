@@ -39,7 +39,7 @@ A self-taught programmer!
   
 # 🚀 GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnashahane&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna&theme=github-dark)
 
 
 
