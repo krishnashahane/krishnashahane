@@ -32,8 +32,8 @@ A self-taught programmer!
 - Rust
 
 ## 📌 Current Focus
-- Building AI apps
 - Programming
+- Building AI apps
 - AI research
 
 # Connect!
