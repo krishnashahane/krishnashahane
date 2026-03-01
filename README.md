@@ -39,7 +39,7 @@ A self-taught programmer!
   
 # 🚀 GitHub Activity
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=dark)
+(https://github-readme-activity-graph.vercel.app/graph?username=krishna&theme=github-dark)
 
 # Connect
 
