@@ -2,7 +2,7 @@ Heyy, I'm Krishna 👋
 
 📍 India 
 
-A programmer!
+A self-taught programmer!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
@@ -17,11 +17,12 @@ A programmer!
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-1E90FF?style=flat)
 
-🚀 Entrepreneur | AI Builder | Full-Stack Dev
+🚀 Entrepreneur | AI Builder | Full-Stack Developer
 
 # Current Projects
 
-[krishnathinks](https://github.com/krishnashahane/krishnathinks.com) - My personal blog website
+📝[krishnathinks](https://github.com/krishnashahane/krishnathinks.com) - My personal blog website
+👨🏼‍💻[Programming](https://github.com/krishnashahane/programming-basics) - These are programming basics that should be known correctly
 
 ## 🛠 Tech Stack
 - JavaScript
@@ -31,14 +32,12 @@ A programmer!
 
 ## 📌 Current Focus
 - Building AI apps
-- Social media platform
+- Programming
 - AI research
 
+# Connect!
 
-Connect!
-
-
-[![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
 [![X](https://img.shields.io/badge/@krishnashahane_-000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
+[![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
 [![LinkedIn](https://img.shields.io/badge/Krishna_Shahane-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-shahane-721522273/)
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
