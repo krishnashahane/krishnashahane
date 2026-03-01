@@ -36,7 +36,14 @@ A self-taught programmer!
 - Building AI apps
 - AI research
 
-# Connect!
+  
+# 🚀 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnashahane&theme=github-dark)
+
+
+
+# Connect
 
 [![X](https://img.shields.io/badge/@krishnashahane_-000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
 [![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
