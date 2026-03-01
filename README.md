@@ -26,10 +26,10 @@ A self-taught programmer!
 
 ## 🛠 Tech Stack
 - Python
+- Rust
 - JavaScript
 - React Native
 - Typescript
-- Rust
 
 ## 📌 Current Focus
 - Programming
@@ -39,7 +39,7 @@ A self-taught programmer!
   
 # 🚀 GitHub Activity
 
-![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
+![Krishna's Activity](https://github-readme-activity-graph.vercel.app/graph?username=krishna&theme=github-dark&hide_border=true&area=true)
 
 # Connect
 
