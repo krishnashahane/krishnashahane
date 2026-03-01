@@ -21,14 +21,14 @@ A self-taught programmer!
 
 # Current Projects
 
--📝**[krishnathinks](https://github.com/krishnashahane/krishnathinks.com)** - My personal blog website
-
--👨🏼‍💻**[Programming](https://github.com/krishnashahane/programming-basics)** - These are programming basics that should be known correctly
+- 📝 **[krishnathinks](https://github.com/krishnashahane/krishnathinks.com)** - My personal blog website
+- 👨🏼‍💻 **[Programming](https://github.com/krishnashahane/programming-basics)** - These are programming basics that should be known correctly
 
 ## 🛠 Tech Stack
+- Python
 - JavaScript
 - React Native
-- Python
+- Typescript
 - Rust
 
 ## 📌 Current Focus
