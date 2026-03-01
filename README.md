@@ -19,6 +19,10 @@ A programmer!
 
 🚀 Entrepreneur | AI Builder | Full-Stack Dev
 
+##Current Projects
+
+[krishnathinks](https://github.com/krishnashahane/krishnathinks.com) - My personal blog website
+
 ## 🛠 Tech Stack
 - JavaScript
 - React Native
