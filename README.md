@@ -39,8 +39,7 @@ A self-taught programmer!
 
   
 # 🚀 GitHub Activity
-
-![Krishna's Activity](https://ghchart.rshah.org/krishnashahane)
+![Krishna's Activity](https://ghchart.rshah.org/409ba5/krishnashahane)
 
 # Connect
 
