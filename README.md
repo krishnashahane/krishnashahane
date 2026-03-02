@@ -22,6 +22,7 @@ A self-taught programmer!
 # Current Projects
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="20"/> [Whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
+- 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks) – My personal blog website
 - 👨🏼‍💻 **[Programming](https://github.com/krishnashahane/programming-basics)** - These are programming basics that should be known correctly
 
 ## 🛠 Tech Stack
