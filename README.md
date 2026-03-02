@@ -39,7 +39,7 @@ A self-taught programmer!
   
 # 🚀 GitHub Activity
 
-![Krishna's Activity]([https://github-readme-activity-graph.vercel.app/graph?username=krishna&theme=github-dark&hide_border=true&area=true)](https://ghchart.rshah.org/krishnashahane))
+![Krishna's Activity](https://ghchart.rshah.org/krishnashahane)
 
 # Connect
 
