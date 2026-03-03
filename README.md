@@ -24,7 +24,7 @@ A self-taught programmer!
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" align="center"/> [whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks) – My personal blog website
-- 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - These are programming basics that should be known correctly
+- 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - Programming basics that should be known correctly
 
 ## 🛠 Tech Stack
 - Python
