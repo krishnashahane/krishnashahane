@@ -17,7 +17,7 @@ A self-taught programmer!
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-1E90FF?style=flat)
 
-🚀 Entrepreneur | AI Builder | Full-Stack Developer
+🚀 Entrepreneur | Full-Stack Developer | Tech Nerd
 
 # Current Projects
 
