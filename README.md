@@ -17,7 +17,7 @@ I'm a self-taught programmer who builds tools and software.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-1E90FF?style=flat)
 
-🚀 Entrepreneur | Builder | 
+🚀 Entrepreneur | Builder | Enthusiast
 
 # Here's What I've built
 
