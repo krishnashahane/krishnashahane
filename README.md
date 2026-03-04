@@ -19,6 +19,8 @@ A self-taught programmer!
 
 🚀 Entrepreneur | Full-Stack Developer | Tech Nerd
 
+# Here's What i have built!
+
 # Current Projects
 
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use spotify in your terminal,Search, control playback, manage library/playlists
