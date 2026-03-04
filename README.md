@@ -1,4 +1,4 @@
-Heyy, I'm Krishna 👋
+Hi, I'm Krishna 👋
 
 📍 India 
 
@@ -17,26 +17,26 @@ I'm a self-taught programmer who builds tools and software.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-1E90FF?style=flat)
 
-🚀 Entrepreneur | Full-Stack Developer | Tech Nerd
+🚀 Entrepreneur | Builder | 
 
 # Here's What I've built
 
 # Selected Projects
 
-- 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use spotify in your terminal,Search, control playback, manage library/playlists
-- 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert your documents into different formats
+- 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
+- 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert documents between multiple formats quickly
 - 💻 [maclabs](https://github.com/krishnashahane/maclabs) - a modern toolkit for creative startup workflows and productivity automation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" align="center"/> [whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
-- 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - Programming basics that should be known correctly
+- 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - Programming fundamentals every dev should know
 
 ## 🛠 Tech Stack
 - Python
 - Rust
 - JavaScript
 - React Native
-- Typescript
+- TypeScript
 
 ## 📌 Current Focus
 - Programming
