@@ -21,7 +21,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Here's What I've built
 
-# Current Building
+# Currently Building
 
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
 - 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert documents between multiple formats quickly
