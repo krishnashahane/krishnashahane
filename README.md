@@ -2,7 +2,7 @@ Heyy, I'm Krishna 👋
 
 📍 India 
 
-A self-taught programmer!
+I'm a self-taught programmer who builds tools and software.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
@@ -19,9 +19,9 @@ A self-taught programmer!
 
 🚀 Entrepreneur | Full-Stack Developer | Tech Nerd
 
-# Here's What i have built!
+# Here's What I've built
 
-# Current Projects
+# Selected Projects
 
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use spotify in your terminal,Search, control playback, manage library/playlists
 - 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert your documents into different formats
