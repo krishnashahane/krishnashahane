@@ -2,7 +2,7 @@ Hi, I'm Krishna 👋
 
 📍 India 
 
-I'm a self-taught programmer who builds tools and software.
+I'm a self-taught programmer who loves solving real-world problems by building software.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
