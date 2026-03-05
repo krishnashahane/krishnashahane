@@ -48,14 +48,9 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - Building AI apps
 - AI research
 
-  
-# 🚀 GitHub Activity
-![Krishna's Activity](https://ghchart.rshah.org/409ba5/krishnashahane)
-## 📈 GitHub Stats
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnashahane&theme=github-dark)
 ## 📈 Activity Graph
 
-![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnashahane&theme=github-dark)
+![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna&theme=github-dark)
 
 # Connect
 
@@ -65,4 +60,5 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
 
 # Philosophy
+- Execution > Thinking
 - 
