@@ -61,4 +61,5 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Philosophy
 - Execution > Thinking
-- 
+- Think deeply. Build boldly.
+- System-thinking.
