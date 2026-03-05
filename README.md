@@ -24,6 +24,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Currently Building
 
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
+- 💸 [costtracker](https://github.com/krishnashahane/costtrackerai) - Use it to track costs in AI tools
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
 - 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert documents between multiple formats quickly
 - 💻 [maclabs](https://github.com/krishnashahane/maclabs) - a modern toolkit for creative startup workflows and productivity automation
