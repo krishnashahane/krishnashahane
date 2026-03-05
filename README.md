@@ -32,6 +32,10 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
 - 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - Programming fundamentals every dev should know
 
+# Legacy Work
+
+- Heyy
+
 ## 🛠 Tech Stack
 - Python
 - Rust
@@ -54,3 +58,6 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 [![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
 [![LinkedIn](https://img.shields.io/badge/Krishna_Shahane-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-shahane-721522273/)
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
+
+# Philosophy
+- 
