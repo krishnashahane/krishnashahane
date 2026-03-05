@@ -51,6 +51,11 @@ I'm a self-taught programmer who loves solving real-world problems by building s
   
 # 🚀 GitHub Activity
 ![Krishna's Activity](https://ghchart.rshah.org/409ba5/krishnashahane)
+## 📈 GitHub Stats
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnashahane&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnashahane&layout=compact&theme=github_dark)
 
 # Connect
 
