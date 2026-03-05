@@ -48,12 +48,6 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - Building AI apps
 - AI research
 
-## 📊 Contribution Overview
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnashahane&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnashahane&theme=github_dark)
-
 # Connect
 
 [![X](https://img.shields.io/badge/@krishnashahane_-000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
