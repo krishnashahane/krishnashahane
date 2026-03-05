@@ -50,8 +50,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 ## 📈 Activity Graph
 
-![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna&theme=github-dark)
-![stats](https://github-readme-stats.vercel.app/api?username=krishnashahane&show_icons=true&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnashahane&theme=github_dark)
 
 # Connect
 
