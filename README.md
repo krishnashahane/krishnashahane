@@ -48,9 +48,11 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - Building AI apps
 - AI research
 
-## 📈 Activity Graph
+## 📊 Contribution Overview
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnashahane&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnashahane&theme=github_dark)
 
 # Connect
 
