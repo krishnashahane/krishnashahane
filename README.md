@@ -28,6 +28,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 💸 [costtracker](https://github.com/krishnashahane/costtrackerai) - Use it to track costs in AI tools
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
 - 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert documents between multiple formats quickly
+- - 🗓️ [timegen](https://github.com/krishnashahane/timegen) - A tool which designs and makes academic schedule easy for professor/student
 - 💻 [maclabs](https://github.com/krishnashahane/maclabs) - a modern toolkit for creative startup workflows and productivity automation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" align="center"/> [whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
