@@ -17,7 +17,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-1E90FF?style=flat)
 
-🚀 Entrepreneur | Builder | Enthusiast
+🚀 Entrepreneur | Builder | Tech Enthusiast
 
 # Here's What I've built
 
