@@ -53,6 +53,12 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 ![Krishna's Activity](https://ghchart.rshah.org/409ba5/krishnashahane)
 ## 📈 GitHub Stats
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnashahane&theme=github-dark)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=krishnashahane&show_icons=true&theme=github_dark)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnashahane&layout=compact&theme=github_dark)
 # Connect
 
 [![X](https://img.shields.io/badge/@krishnashahane_-000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
