@@ -2,6 +2,7 @@ Hi, I'm Krishna 👋
 
 📍 India 
 
+I am 19 years old.
 I'm a self-taught programmer who loves solving real-world problems by building software.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
