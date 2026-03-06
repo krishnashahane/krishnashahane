@@ -40,6 +40,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Legacy Work
 
+- 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
 - 💸 [costtracker](https://github.com/krishnashahane/costtrackerai) - Use it to track costs in AI tools
 
