@@ -74,6 +74,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishnashahane&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishnashahane&layout=compact&theme=github_dark)
 
+# Philosophy
 - Execution > Thinking
 - Think deeply. Build boldly
 - System-thinking
