@@ -13,6 +13,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -25,6 +26,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Currently Building
 
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
+- 🌎 [gmapcli](https://github.com/krishnashahane/gmapscli) - Use Google Maps in your CLI
 - 💸 [costtracker](https://github.com/krishnashahane/costtrackerai) - Use it to track costs in AI tools
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
 - 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert documents between multiple formats quickly
@@ -62,5 +64,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Philosophy
 - Execution > Thinking
-- Think deeply. Build boldly.
-- System-thinking.
+- Think deeply. Build boldly
+- System-thinking
+- Build things that make thinking faster
+- Judge a man by his questions rather than his answers
