@@ -70,9 +70,6 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 [![LinkedIn](https://img.shields.io/badge/Krishna_Shahane-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-shahane-721522273/)
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
 
-## 📊 Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnashahane&theme=github_dark" />800)
-
 # Philosophy
 - Execution > Thinking
 - Think deeply. Build boldly
