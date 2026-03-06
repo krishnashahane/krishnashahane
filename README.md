@@ -71,8 +71,8 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnashahane&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnashahane&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishnashahane&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishnashahane&layout=compact&theme=github_dark)
 
 - Execution > Thinking
 - Think deeply. Build boldly
