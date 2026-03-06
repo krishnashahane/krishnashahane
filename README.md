@@ -29,7 +29,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
 - 📊 [anaylst](https://github.com/krishnashahane/analyst) - A lightweight toolkit for data analysis, insights, and experimentation
 - 🛠️ [codeguard](https://github.com/krishnashahane/codeguard) - Automatically reviews PRs and detects patterns
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20"/> [swifthook](https://github.com/krishnashahane/swifthook) - A simple Swift library for hooking and intercepting method
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15"/> [swifthook](https://github.com/krishnashahane/swifthook) - A simple Swift library for hooking and intercepting method
 - 🌎 [gmapcli](https://github.com/krishnashahane/gmapscli) - Use Google Maps in your CLI
 - 💸 [costtracker](https://github.com/krishnashahane/costtrackerai) - Use it to track costs in AI tools
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
