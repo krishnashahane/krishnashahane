@@ -60,14 +60,15 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - Building AI apps
 - AI research
 
+## Contribution Activity
+![Contribution Graph](https://ghchart.rshah.org/409ba5/krishnashahane)
+
 # Connect
 
 [![X](https://img.shields.io/badge/@krishnashahane_-000000?style=flat&logo=x&logoColor=white)](https://x.com/krishnashahane_)
 [![Instagram](https://img.shields.io/badge/@urstrulylkrishna-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/urstrulylkrishna/)
 [![LinkedIn](https://img.shields.io/badge/Krishna_Shahane-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-shahane-721522273/)
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
-
-![GitHub Contributions](https://ghchart.rshah.org/krishnashahane)
 
 # Philosophy
 - Execution > Thinking
