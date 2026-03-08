@@ -40,6 +40,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 💻 [maclabs](https://github.com/krishnashahane/maclabs) - a modern toolkit for creative startup workflows and productivity automation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" align="center"/> [whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
+- 🔗 [tips] - few tips and tricks for ChatGPT CLI
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
 - 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - Programming fundamentals every dev should know
 
