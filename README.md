@@ -40,6 +40,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 🗓️ [timegen](https://github.com/krishnashahane/timegen) - A tool which designs and makes academic schedule easy for professor/student
 - 💻 [maclabs](https://github.com/krishnashahane/maclabs) - a modern toolkit for creative startup workflows and productivity automation
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" align="center"/> [whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
+- 👨‍💻 [hackermap] (https://github.com/krishnashahane/hackermap) - Shows live cyber attacks across the world
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
 - 🔗 [tips](https://github.com/krishnashahane/ChatGPT-Tips-and-Tricks) - few tips and tricks for ChatGPT CLI
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
