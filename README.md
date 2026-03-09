@@ -29,6 +29,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 📖 [readmeforge](https://github.com/krishnashahane/ReadmeForge) - AI-powered GitHub README generator
 - ⚡ [relaxtech](https://github.com/krishnashahane/relaxtech) - a lightweight open-source tool designed to enhance everyday digital workflows
 - 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
+- 📡 [livesystem](https://github.com/krishnashahane/LiveSystem) - A real-time terminal dashboard that visualizes your system like a hacker-style control panel
 - 📊 [anaylst](https://github.com/krishnashahane/analyst) - A lightweight toolkit for data analysis, insights, and experimentation
 - 🛠️ [codeguard](https://github.com/krishnashahane/codeguard) - Automatically reviews PRs and detects patterns
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15"/> [swifthook](https://github.com/krishnashahane/swifthook) - A simple Swift library for hooking and intercepting method
