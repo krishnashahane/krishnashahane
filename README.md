@@ -28,6 +28,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
 - 📖 [readmeforge](https://github.com/krishnashahane/ReadmeForge) - AI-powered GitHub README generator
 - 🌐 [codeatlas](https://github.com/krishnashahane/codeatlas) - AI that understands your entire codebase
+- 💾 [webchronicle](https://github.com/krishnashahane/webchronicle) - a timeline of the web showing how websites evolved
 - ⚡ [relaxtech](https://github.com/krishnashahane/relaxtech) - a lightweight open-source tool designed to enhance everyday digital workflows
 - 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
 - 📡 [livesystem](https://github.com/krishnashahane/LiveSystem) - A real-time terminal dashboard that visualizes your system like a hacker-style control panel
