@@ -52,6 +52,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Legacy Work
 
+- ⚡ [aibench](https://github.com/krishnashahane/AI-Bench) - Benchmark any LLM on your actual tasks
 - 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15"/> [swifthook](https://github.com/krishnashahane/swifthook) - A simple Swift library for hooking and intercepting method
