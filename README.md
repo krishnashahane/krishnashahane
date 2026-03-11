@@ -26,7 +26,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Currently Building
 
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
-- ⚡ [aibench](https://github.com/krishnashahane/aibench) - Benchmark any LLM on your actual tasks
+- ⚡ [aibench](https://github.com/krishnashahane/AI-Bench) - Benchmark any LLM on your actual tasks
 - 📖 [readmeforge](https://github.com/krishnashahane/ReadmeForge) - AI-powered GitHub README generator
 - 🌐 [codeatlas](https://github.com/krishnashahane/codeatlas) - AI that understands your entire codebase
 - 🌌 [netverse](https://github.com/krishnashahane/netverse) - Visual Internet Atlas that maps websites into a 3D galaxy of the web
