@@ -26,6 +26,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Currently Building
 
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
+- 🔮 [agenttrace](https://github.com/krishnashahane/agenttrace) - Chrome DevTools for AI agents
 - ⚡ [aibench](https://github.com/krishnashahane/AI-Bench) - Benchmark any LLM on your actual tasks
 - 🚀[chronocode](https://github.com/krishnashahane/ChronoCode) - AI-Powered Codebase Time Machine
 - 🩺 [medpredictor AI](https://github.com/krishnashahane/MedPredictor-AI) -  ML-powered disease prediction & patient analysis system
