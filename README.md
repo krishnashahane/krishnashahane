@@ -27,6 +27,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
 - ⚡ [aibench](https://github.com/krishnashahane/AI-Bench) - Benchmark any LLM on your actual tasks
+- 🚀[chronocode](https://github.com/krishnashahane/ChronoCode) - AI-Powered Codebase Time Machine
 - 📖 [readmeforge](https://github.com/krishnashahane/ReadmeForge) - AI-powered GitHub README generator
 - 🌐 [codeatlas](https://github.com/krishnashahane/codeatlas) - AI that understands your entire codebase
 - 🌌 [netverse](https://github.com/krishnashahane/netverse) - Visual Internet Atlas that maps websites into a 3D galaxy of the web
@@ -52,6 +53,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Legacy Work
 
+- 🚀[chronocode](https://github.com/krishnashahane/ChronoCode) - AI-Powered Codebase Time Machine
 - ⚡ [aibench](https://github.com/krishnashahane/AI-Bench) - Benchmark any LLM on your actual tasks
 - 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
