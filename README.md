@@ -58,6 +58,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 - 🚀[chronocode](https://github.com/krishnashahane/ChronoCode) - AI-Powered Codebase Time Machine
 - 🔮 [agenttrace](https://github.com/krishnashahane/agenttrace) - Chrome DevTools for AI agents
+- 🔌 [mcpspot](https://github.com/krishnashahane/MCPSPOT) - Manage and scale multiple MCP servers through a unified dashboard with flexible HTTP/SSE endpoints
 - ⚡ [aibench](https://github.com/krishnashahane/AI-Bench) - Benchmark any LLM on your actual tasks
 - 🩺 [medpredictor AI](https://github.com/krishnashahane/MedPredictor-AI) -  ML-powered disease prediction & patient analysis system
 - 🤖 [aiforge](https://github.com/krishnashahane/aiforge) - Simple library for LLM token accounting
