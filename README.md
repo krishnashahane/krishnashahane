@@ -25,6 +25,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Currently Building
 
+- 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
 - 🔮 [agenttrace](https://github.com/krishnashahane/agenttrace) - Chrome DevTools for AI agents
 - 🔌 [mcpspot](https://github.com/krishnashahane/MCPSPOT) - Manage and scale multiple MCP servers through a unified dashboard with flexible HTTP/SSE endpoints
