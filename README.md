@@ -59,7 +59,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Legacy Work
 
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
-- 🎯 [careerhub](https://github.com/krishnashahane/AI-CareerHub) - AI-powered career discovery platform that helps users explore jobs, analyze skills, and find the best career paths
+- 🎯 [careerhub](https://github.com/krishnashahane/AI-CareerHub) - AI-powered career discovery platform that helps users explore jobs, analyze skills, and find best career paths
 - 🚀[chronocode](https://github.com/krishnashahane/ChronoCode) - AI-Powered Codebase Time Machine
 - 🔮 [agenttrace](https://github.com/krishnashahane/agenttrace) - Chrome DevTools for AI agents
 - 🔌 [mcpspot](https://github.com/krishnashahane/MCPSPOT) - Manage and scale multiple MCP servers through a unified dashboard with flexible HTTP/SSE endpoints
