@@ -52,10 +52,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="18" align="center"/> [whatsappincli](https://github.com/krishnashahane/whatsappincli) – Use WhatsApp in your terminal
 - 👨‍💻 [hackermap](https://github.com/krishnashahane/hackermap) - Shows live cyber attacks across the world
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
-- 🔗 [tips](https://github.com/krishnashahane/ChatGPT-Tips-and-Tricks) - few tips and tricks for ChatGPT CLI
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
-- 👨🏼‍💻 **[programming](https://github.com/krishnashahane/programming-basics)** - Programming fundamentals every dev should know
-
 # Legacy Work
 
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
@@ -79,7 +76,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 ## 📌 Current Focus
 - Programming
-- Building AI apps
+- Building AI apps/tools
 - AI research
 
 ## Contribution Activity
@@ -93,6 +90,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 [![GitHub](https://img.shields.io/badge/krishnashahane-181717?style=flat&logo=github&logoColor=white)](https://github.com/krishnashahane)
 
 # Philosophy
+- Signal Zero Noise
 - Execution > Thinking
 - Think deeply. Build boldly
 - System-thinking
