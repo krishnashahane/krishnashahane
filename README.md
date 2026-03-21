@@ -44,7 +44,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 🛠️ [codeguard](https://github.com/krishnashahane/codeguard) - Automatically reviews PRs and detects patterns
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15"/> [swifthook](https://github.com/krishnashahane/swifthook) - A simple Swift library for hooking and intercepting method
 - 🌎 [gmapcli](https://github.com/krishnashahane/gmapcli) - Use Google Maps in your CLI
-- 💸 [costtracker](https://github.com/krishnashahane/CostTracker-AI)) - Use it to track costs in AI tools
+- 💸 [costtracker](https://github.com/krishnashahane/CostTracker-AI) - Use it to track costs in AI tools
 - 🎵 [spotcli](https://github.com/krishnashahane/spotcli) - Use Spotify in your terminal — search, control playback, and manage playlists
 - 🗂️ [docx](https://github.com/krishnashahane/jpg-pdf-converter) - Convert documents between multiple formats quickly
 - 🗓️ [timegen](https://github.com/krishnashahane/timegen) - A tool which designs and makes academic schedule easy for professor/student
