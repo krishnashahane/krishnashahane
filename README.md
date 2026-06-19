@@ -25,6 +25,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Currently Building
 
+- 🧬 [Cortex](https://github.com/krishnashahane/cortex) - Autonomous Multi-Agent ML Research Scientist
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
 - 🎯 [careerhub](https://github.com/krishnashahane/AI-CareerHub) - AI-powered career discovery platform that helps users explore jobs, analyze skills, and find best career paths
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
