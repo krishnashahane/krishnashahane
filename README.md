@@ -58,6 +58,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
 # Legacy Work
 
+- 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
 - 🎯 [careerhub](https://github.com/krishnashahane/AI-CareerHub) - AI-powered career discovery platform that helps users explore jobs, analyze skills, and find best career paths
 - 🚀[chronocode](https://github.com/krishnashahane/ChronoCode) - AI-Powered Codebase Time Machine
