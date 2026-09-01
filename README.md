@@ -26,7 +26,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Currently Building
 
 - 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
-- 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - AI-powered network attack forecasting that predicts evolving threats before compromise and enables rapid automated defense.
+- 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - Predictive AI that forecasts network attacks before they happen
 - 🌌 [Genesis](https://github.com/krishnashahane/Genesis) - The Operating System for Autonomous AI Agents
 - 🧬 [Cortex](https://github.com/krishnashahane/cortex) - Autonomous Multi-Agent ML Research Scientist
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
@@ -59,7 +59,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
 # Legacy Work
 
-- 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - AI-powered network attack forecasting that predicts evolving threats before compromise and enables rapid automated defense.
+- 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - Predictive AI that forecasts network attacks before they happen
 - 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
 - 🎯 [careerhub](https://github.com/krishnashahane/AI-CareerHub) - AI-powered career discovery platform that helps users explore jobs, analyze skills, and find best career paths
