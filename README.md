@@ -25,6 +25,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Currently Building
 
+- 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
 - 🌌 [Genesis](https://github.com/krishnashahane/Genesis) - The Operating System for Autonomous AI Agents
 - 🧬 [Cortex](https://github.com/krishnashahane/cortex) - Autonomous Multi-Agent ML Research Scientist
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
