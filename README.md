@@ -24,10 +24,12 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Here's What I've built
 
 # Currently Building
-# Shipped
 
 - 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
 - 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - Predictive AI that forecasts network attacks before they happen
+
+# ⚡ Shipped Projects
+
 - 🌌 [Genesis](https://github.com/krishnashahane/Genesis) - The Operating System for Autonomous AI Agents
 - 🧬 [Cortex](https://github.com/krishnashahane/cortex) - Autonomous Multi-Agent ML Research Scientist
 - 🐙 [github world](https://github.com/krishnashahane/GitHub-World) - Explore an interactive 3D city, fly between buildings, and discover developers from around the world
