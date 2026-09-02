@@ -80,13 +80,17 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 **Supreme Facility Management (SFM)** — 2 months
 
 - Solo-built 6 production apps: PMS, LMS, JMS Tracker, HR AI Helpdesk, Fuel Tracker, RTO Directory
-- Stack: Next.js · PostgreSQL · Prisma · Gemini API
+- Stack: Next.js · PostgreSQL · Prisma · Gemini and Claude API
 - Delivered internship report + AI-adoption strategy presentation to leadership
+
+## 🔬 Research Paper
+
+- **Sentinel** - [Research paper on Predictive AI for Cyber Attacks using Network Traffic Analysis](zenodo.org/records/22212694)(https://github.com/krishnashahane/Sentinel---Research-paper)
 
 ## 💰 Freelance / Client Work
 
 - **Shatarrka** — Real estate platform with AI chatbot integration
-- **SpiruPop** — D2C spirulina brand — spirupop.vercel.app
+- **SpiruPop** — D2C spirulina brand with fintech integrated
 - **Megha's Panchgavya** — D2C brand website
 - **Maitreyayog** — D2C brand website
 
