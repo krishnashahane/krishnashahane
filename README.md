@@ -24,6 +24,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 # Here's What I've built
 
 # Currently Building
+# Shipped
 
 - 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
 - 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - Predictive AI that forecasts network attacks before they happen
@@ -76,10 +77,11 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 ## 💼 Internship
 
-**Supreme Facility Management (SFM)**
-Solo-built 6 production apps: PMS, LMS, JMS Tracker, HR AI Helpdesk, Fuel Tracker, RTO Directory
-Stack: Next.js · PostgreSQL · Prisma · Gemini API
-Delivered internship report + AI-adoption strategy presentation to leadership
+**Supreme Facility Management (SFM)** — 2 months
+
+- Solo-built 6 production apps: PMS, LMS, JMS Tracker, HR AI Helpdesk, Fuel Tracker, RTO Directory
+- Stack: Next.js · PostgreSQL · Prisma · Gemini API
+- Delivered internship report + AI-adoption strategy presentation to leadership
 
 ## 💰 Freelance / Client Work
 
