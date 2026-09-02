@@ -85,7 +85,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 ## 🔬 Research Paper
 
-- **Sentinel** - [Research paper on Predictive AI for Cyber Attacks using Network Traffic Analysis](zenodo.org/records/22212694)
+- 🔬 [**Sentinel**](https://zenodo.org/records/22212694) — Predictive AI for Cyber Attack Detection using Network Traffic Analysis
 
 ## 💰 Freelance / Client Work
 
