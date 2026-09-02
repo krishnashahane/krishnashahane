@@ -57,6 +57,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 👨‍💻 [hackermap](https://github.com/krishnashahane/hackermap) - Shows live cyber attacks across the world
 - 🔔 [remindr](https://github.com/krishnashahane/remindr) - Reminder App in CLI(can be used in cross-platform)
 - 📝 [krishnathinks](https://github.com/krishnashahane/krishnathinks.com) – My personal blog website
+
 # Legacy Work
 
 - 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - Predictive AI that forecasts network attacks before they happen
@@ -72,6 +73,20 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 - 🧠 [mind](https://github.com/krishnashahane/mind) - Local AI chat running directly in the browser
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="15"/> [swifthook](https://github.com/krishnashahane/swifthook) - A simple Swift library for hooking and intercepting method
 - 💸 [costtracker](https://github.com/krishnashahane/CostTracker-AI) - Use it to track costs in AI tools
+
+## 💼 Internship
+
+**Supreme Facility Management (SFM)**
+Solo-built 6 production apps: PMS, LMS, JMS Tracker, HR AI Helpdesk, Fuel Tracker, RTO Directory
+Stack: Next.js · PostgreSQL · Prisma · Gemini API
+Delivered internship report + AI-adoption strategy presentation to leadership
+
+## 💰 Freelance / Client Work
+
+- **Shatarrka** — Real estate platform with AI chatbot integration
+- **SpiruPop** — D2C spirulina brand — spirupop.vercel.app
+- **Megha's Panchgavya** — D2C brand website
+- **Maitreyayog** — D2C brand website
 
 ## 🛠 Tech Stack
 - Python
