@@ -25,6 +25,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 # Currently Building
 
+- 🛡️ [Agent Trust Firewall](https://github.com/krishnashahane/agent-trust-firewall) - Runtime security layer that verifies and controls AI-agent actions
 - 🏗️ [Permit AI](https://github.com/krishnashahane/permit-ai) - AI-powered pre-checks that analyze building plans for permit compliance in seconds
 - 🛡️ [Sentinel](https://github.com/krishnashahane/sentinel) - Predictive AI that forecasts network attacks before they happen
 
