@@ -85,7 +85,7 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 ## 🔬 Research Paper
 
-- **Sentinel** - [Research paper on Predictive AI for Cyber Attacks using Network Traffic Analysis](zenodo.org/records/22212694)(https://github.com/krishnashahane/Sentinel---Research-paper)
+- **Sentinel** - [Research paper on Predictive AI for Cyber Attacks using Network Traffic Analysis](zenodo.org/records/22212694)
 
 ## 💰 Freelance / Client Work
 
