@@ -90,13 +90,6 @@ I'm a self-taught programmer who loves solving real-world problems by building s
 
 - 🔬 [**Sentinel**](https://zenodo.org/records/22212694) — Predictive AI for Cyber Attack Detection using Network Traffic Analysis
 
-## 💰 Freelance / Client Work
-
-- **Shatarrka** — Real estate platform with AI chatbot integration
-- **SpiruPop** — D2C spirulina brand with fintech integrated
-- **Megha's Panchgavya** — D2C brand website
-- **Maitreyayog** — D2C brand website
-
 ## 🛠 Tech Stack
 - Python
 - Rust
